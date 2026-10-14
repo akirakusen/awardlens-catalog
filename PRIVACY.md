@@ -1,36 +1,28 @@
-# AwardLens Native Beta Privacy Policy
+# AwardLens Privacy Policy
 
-Effective 6 October 2026. This policy applies to the native offline-first
-AwardLens 1.2 beta, not earlier account-based builds still in testing.
+Updated October 14, 2026. This applies to the free, native AwardLens 1.2 app.
+The [full privacy policy](https://akirakusen.github.io/awardlens-support/privacy.html)
+and [support page](https://akirakusen.github.io/awardlens-support/) describe the
+app, third-party requests, support correspondence and historical records.
 
-AwardLens compares reference award-redemption requirements. It does not search
-live seat availability or make reservations. The native beta requires no
-AwardLens login and includes no advertising or analytics service.
+AwardLens requires no account or purchase. Searches and preferences are
+processed on the device; no route search is sent to an AwardLens backend.
+The app has no advertising or analytics SDK and does not request device location.
 
-Route searches, local preferences and downloaded catalog files are processed
-on the device. The app does not send route searches to an AwardLens backend.
-Downloaded catalogs contain award references and published articles, not user
-accounts. Removing the app removes its local files, subject to Apple's device
-and backup behavior; purchases remain associated with the Apple account.
+Catalog updates use public HTTPS files on GitHub and its delivery providers.
+These services receive ordinary network metadata including IP addresses;
+requests contain no route query, private GitHub token or Apple purchase identity.
+Apple MapKit and websites opened from source links follow their own policies.
 
-Apple processes purchases, restores and purchase entitlement. AwardLens does
-not receive payment-card details. Apple MapKit may request map tiles from
-Apple. Their services are governed by Apple's privacy policies.
+Support email is optional and shares your address and message with support and
+email providers so we can respond. Contact support to request deletion of that
+correspondence or ask about records from an earlier account-based version.
+The legacy backend is retired; updating or deleting the app does not erase
+historical records or private recovery backups.
 
-The app checks public GitHub-hosted manifests and encrypted packages for data
-updates. These requests expose ordinary network information, including IP
-address, to GitHub and its content-delivery providers. They do not include an
-AwardLens account, route query, private GitHub token or Apple purchase identity.
-Normally a successful update check is limited to once per variant per day;
-manual refresh and failed-request retry policies can produce additional checks.
-
-Opening an external source uses that website's privacy policy. Sending support
-email voluntarily shares its contents and sender address with the recipient
-and email providers. Please do not send passwords or payment details.
-
-Previously installed account-based builds still depend on their existing
-production service. This beta migration does not delete historical accounts
-or their server-side records. Contact support with account/privacy questions.
+Deleting the app removes its on-device catalog and preferences. Offloading
+keeps its data; backups and restores follow your Apple settings.
 
 Contact: [juicernchu@outlook.com](mailto:juicernchu@outlook.com).
-Material changes to this policy will be published here with an effective date.
+
+The public policy and this summary must be kept consistent when publishing.

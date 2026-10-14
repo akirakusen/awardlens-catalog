@@ -1,7 +1,7 @@
 # AwardLens Catalog
 
 This repository hosts signed, encrypted data updates for the native AwardLens
-1.2 beta. It is not the app's source repository or an award-availability service.
+1.2 app. It is not the app's source repository or an award-availability service.
 
 Each immutable `catalog-N` release contains only:
 
